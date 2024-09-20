@@ -26,7 +26,8 @@ The main objective of our web application is to help small and medium-sized nonp
 3. **Maps and City Resources**: Explore and navigate city resources using integrated ArcGIS Online functionality.
 Overall, the application aims to bridge the gap between data availability, accessibility, and its effective utilization by nonprofit organizations. It seeks to empower nonprofits to make informed decisions, optimize resource navigation and allocation, and enhance their impact on the communities they serve.
 
-![image](https://github.com/user-attachments/assets/b20b8e47-e23c-4d73-976e-7b24472d1d40)
+![image](https://github.com/user-attachments/assets/2e3a873d-e92d-4b80-8a38-32cbb02d0a46)
+
 
 ### 🍜 [Food Accessibility and Security in Cook County](https://github.com/uchicago-capp-30320/DataForGood-chicago)
 
@@ -43,8 +44,7 @@ For the project, my teammates and I built a dashboard in order to visualize and 
 
 Since 1 in 4 children in Cook County are at risk of hunger, we hope that our application can help educate people about food accessibility as it is a critical health issue.
 
-![image](https://github.com/user-attachments/assets/960c2c2a-462b-4847-a5cf-00f539a38cf6)
-
+![image](https://github.com/user-attachments/assets/f25bfc25-9810-4d33-8c95-44148bd04496)
 
 #### Machine Learning Project Highlights
 
@@ -66,8 +66,8 @@ Given that BERT models use bidirectional language understanding and GPT models o
 - Fact Checking
 - Web Interface Development
 - Models: LSTM, BOW, GPT-2 fine-tuning, distilbert, ClimateBERT, Logistic Regression, GPT-3
-  
-![image](https://github.com/user-attachments/assets/156e207a-9719-4c41-926f-864a906fb868)
+
+![image](https://github.com/user-attachments/assets/65d07d64-31ce-44d9-a8a1-cd430c0dd865)
 
 ### 🏗 [Costa Rica Multi-Class Poverty Prediction](https://github.com/sarahwalker10/PuraVida/tree/main)
 
@@ -84,5 +84,5 @@ In this study, we propose and evaluate the effectiveness of five supervised mach
 - Handle High Class Imbalance using Synthetic Minority Over-sampling Technique (SMOTE)
 - Models: Random Forest, Gradient Boosted Trees, Naive Bayes, K-Nearest Neighbors (KNN), and Logistic Regression.
   
-![image](https://github.com/user-attachments/assets/f4aedf9d-82f1-4b71-8794-d39d25c3ad12)
+![image](https://github.com/user-attachments/assets/4ad9703d-d97f-4daf-a8f6-5d66ccbd21bc)
 
