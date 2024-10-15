@@ -29,7 +29,7 @@ Overall, the application aims to bridge the gap between data availability, acces
 ![image](https://github.com/user-attachments/assets/2e3a873d-e92d-4b80-8a38-32cbb02d0a46)
 
 
-### 🍜 [Food Accessibility and Security in Cook County](https://github.com/uchicago-capp-30320/DataForGood-chicago)
+### 🍜 [Food Accessibility and Security in Cook County](https://github.com/yueyue-w/Food-Accessibility-and-Security-in-Cook-County)
 
 #### Project Overview
 According to the United States Department of Agriculture, food insecurity is “a household-level economic and social condition of limited or uncertain access to adequate food” (USDA). The project centers on Cook County and uses data from Yelp Fusion’s API, scraped emergency pantry data from the Sheriff’s Office’s, and downloaded demographic data from the US Census Bureau.
